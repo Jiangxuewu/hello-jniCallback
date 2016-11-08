@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MaterialEditTextEnhance">
+        <!-- The base color of the line and the texts. Default is black. -->
+        <attr name="met_baseColor_Enhance" format="color" />
+        <!-- The highlight color of the line, and the floating label if the highlightFloatingLabel is true. -->
+        <attr name="met_primaryColor_Enhance" format="color" />
+        <!-- How the floating label should be shown. Default is none -->
+        <attr name="met_floatingLabel_Enhance">
+            <enum name="none" value="0" />
+            <enum name="normal" value="1" />
+            <enum name="highlight" value="2" />
+        </attr>
+        <!-- The color for when something is wrong.(e.g. exceeding max characters) -->
+        <attr name="met_errorColor_Enhance" format="color" />
+        <!-- Min characters count limit. 0 means no limit. -->
+        <attr name="met_minCharacters_Enhance" format="integer" />
+        <!-- max Characters count limit. 0 means no limit. -->
+        <attr name="met_maxCharacters_Enhance" format="integer" />
+        <!-- Whether to show the bottom ellipsis in singleLine mode -->
+        <attr name="met_singleLineEllipsis_Enhance" format="boolean" />
+        <!-- Reserved bottom text lines count, no matter if there is some helper/error text. -->
+        <attr name="met_minBottomTextLines_Enhance" format="integer" />
+        <!-- Helper text at the bottom -->
+        <attr name="met_helperText_Enhance" format="string" />
+        <!-- Helper text color -->
+        <attr name="met_helperTextColor_Enhance" format="color" />
+        <!-- Font of the paint used to draw accent texts -->
+        <attr name="met_accentTypeface_Enhance" format="string" />
+        <!-- Font used on view -->
+        <attr name="met_typeface_Enhance" format="string" />
+        <!-- Custom float label text -->
+        <attr name="met_floatingLabelText_Enhance" format="string" />
+        <!-- spacing between the main text and the floating label -->
+        <attr name="met_floatingLabelPadding_Enhance" format="dimension" />
+        <!-- Hide underline -->
+        <attr name="met_hideUnderline_Enhance" format="boolean" />
+        <!-- Underline's color -->
+        <attr name="met_underlineColor_Enhance" format="color" />
+        <!-- Auto validate -->
+        <attr name="met_autoValidate_Enhance" format="boolean" />
+        <!-- Left icon -->
+        <attr name="met_iconLeft_Enhance" format="reference" />
+        <!-- Right icon -->
+        <attr name="met_iconRight_Enhance" format="reference" />
+        <!-- Padding between icon(s) and the main area. 8dp by default. -->
+        <attr name="met_iconPadding_Enhance" format="dimension" />
+        <!-- Clear button -->
+        <attr name="met_clearButton_Enhance" format="boolean" />
+        <!-- The floating label's text size. 12sp by default. -->
+        <attr name="met_floatingLabelTextSize_Enhance" format="dimension" />
+        <!-- The floating label's text color. -1 by default. -->
+        <attr name="met_floatingLabelTextColor_Enhance" format="color" />
+        <!-- The bottom texts' size. 12sp by default. -->
+        <attr name="met_bottomTextSize_Enhance" format="dimension" />
+        <!-- Always show the floating label, instead of animating it in/out. False by default. -->
+        <attr name="met_floatingLabelAlwaysShown_Enhance" format="boolean" />
+        <!-- Always show the helper text, no matter if the edit text is focused. False by default. -->
+        <attr name="met_helperTextAlwaysShown_Enhance" format="boolean" />
+        <!-- Whether use animation to show/hide the floating label. True by default. -->
+        <attr name="met_floatingLabelAnimating_Enhance" format="boolean"/>
+        <!-- Text color -->
+        <attr name="met_textColor_Enhance" format="color" />
+        <!-- Hint Text Color -->
+        <attr name="met_textColorHint_Enhance" format="color" />
+        <!-- Auto validate on focus lost. False by default. -->
+        <attr name="met_validateOnFocusLost_Enhance" format="boolean"/>
+        <!-- Whether check the characters count at the beginning it's shown. True by default. -->
+        <attr name="met_checkCharactersCountAtBeginning_Enhance" format="boolean"/>
+
+        <attr name="met_noChange_Enhance" format="boolean"/>
+    </declare-styleable>
+</resources>

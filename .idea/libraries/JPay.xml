@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JPay">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/appForkAd/libs/JPay.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

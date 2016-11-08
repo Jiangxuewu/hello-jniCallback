@@ -1,0 +1,62 @@
+jmethodID getPackageNameID = (*env)->GetMethodID(env, theContextClass, "getPackageName", "()Ljava/lang/String;");
+    if (!getPackageNameID) {
+        LOGE("[x] failed to get method id getPackageName");
+        return JNI_VERSION_1_6;
+    }
+    else { LOGI("[x] got method id getPackageName = %p", getPackageNameID); }
+
+    jobject pkgName = (*env)->CallObjectMethod(env, context, getPackageNameID);
+    if (!pkgName) {
+        LOGE("[x] failed to getPackageName");
+        return JNI_VERSION_1_6;
+    }
+    else {
+        mPKName = Jstring2CStr(env, pkgName);
+        LOGI("[x] got  package name = %s", mPKName);
+    }
+    // methdo getPackageManager
+    jmethodID getPackageManagerMID = (*env)->GetMethodID(env, theContextClass, "getPackageManager", "()Landroid/content/pm/PackageManager;");
+    if (!getPackageManagerMID) {
+        LOGE("[x] failed to get getPackageManagerMID.");
+        return JNI_VERSION_1_6;
+    }
+    LOGI("[x] got getPackageManagerMID = %p", getPackageManagerMID);
+    // the object of PackageManager
+    jobject mPackageManagerObj = (*env)->CallObjectMethod(env, context, getPackageManagerMID);
+    if (!mPackageManagerObj) {
+        LOGE("[x] failed to get mPackageManagerObj.");
+        return JNI_VERSION_1_6;
+    }
+    LOGI("[x] got mPackageManagerObj");
+
+    //find class PackageManager for get mehtod id of getApplicationInfo.
+    // get PackageManager class
+    const char *clsPMName = "android/content/pm/PackageManager";
+    jclass thePMClass = (*env)->FindClass(env, clsPMName);
+    if (!thePMClass) {
+        LOGE("[x] failed to get %s", clsPMName);
+        return JNI_VERSION_1_6;
+    }
+    else { LOGI("[x] got %s = %p", clsPMName, thePMClass); }
+    jmethodID getApplicationInfoMID = (*env)->GetMethodID(env, thePMClass, "getApplicationInfo", "(Ljava/lang/String;I)Landroid/content/pm/ApplicationInfo;");
+    if (!getApplicationInfoMID) {
+        LOGE("[x] failed to get getApplicationInfoMID.");
+        return JNI_VERSION_1_6;
+    }
+    LOGI("[x] got getApplicationInfoMID = %p", getApplicationInfoMID);
+    //the object of ApplicationInfo
+    jobject mAppInfo = (*env)->CallObjectMethod(env, mPackageManagerObj, getApplicationInfoMID, mPKName, 0x00000080);
+    if (!mAppInfo) {
+        LOGE("[x] failed to get mAppInfo");
+        return JNI_VERSION_1_6;
+    }
+    LOGI("[x] got mAppInfo.");
+
+    //find class ApplicationInfo for get filed  id of metaData.
+    // get PackageManager class
+    const char *clsAppInfoName = "android/content/pm/ApplicationInfo";
+    jclass theAppInfoClass = (*env)->FindClass(env, clsAppInfoName);
+    if (!thePMClass) {
+        LOGE("[x] failed to get %s", clsAppInfoName);
+        return JNI_VERSION_1_6;
+    } else { LOGI("[x] got %s = %p", clsAppInfoName, theAppInfoClass); }

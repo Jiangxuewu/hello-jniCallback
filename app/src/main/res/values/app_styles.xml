@@ -1,0 +1,177 @@
+<resources>
+
+    <style name="commonTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@style/activityAnimation</item>
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+
+    <style name="AppTheme_ASK" parent="commonTheme">
+        <item name="colorPrimary">@color/four_version_color_1</item>
+        <item name="colorPrimaryDark">@color/four_version_color_1</item>
+        <item name="colorAccent">@color/four_version_color_1</item>
+    </style>
+
+    <style name="AppTheme_FOUND" parent="commonTheme">
+        <item name="colorPrimary">@color/four_version_color_2</item>
+        <item name="colorPrimaryDark">@color/four_version_color_2</item>
+        <item name="colorAccent">@color/four_version_color_2</item>
+    </style>
+
+    <style name="AppTheme_SKIN_Translation" parent="commonTheme">
+        <item name="colorPrimary">@color/four_version_color_3</item>
+        <item name="colorPrimaryDark">@color/four_version_color_3</item>
+        <item name="colorAccent">@color/four_version_color_3</item>
+    </style>
+    <style name="AppTheme_SKIN_Translation_Fit" parent="commonTheme">
+        <item name="colorPrimary">@color/four_version_color_3</item>
+        <item name="colorPrimaryDark">@color/four_version_color_3</item>
+        <item name="colorAccent">@color/four_version_color_3</item>
+    </style>
+
+    <style name="AppTheme_ASK_Translation" parent="AppTheme_ASK">
+    </style>
+
+    <style name="AppTheme_FOUND_Translation" parent="AppTheme_FOUND">
+    </style>
+
+
+
+    <style name="Theme.Activity.Top" parent="AppTheme"></style>
+
+    <style name="Theme.Activity.Transparent" parent="AppTheme">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="activityAnimation" parent="@android:style/Animation">
+    </style>
+
+    <style name="PopupAnimation" mce_bogus="1" parent="android:Animation">
+    </style>
+
+    <style name="ProvincePopupAnimation" parent="android:Animation">
+    </style>
+
+    <style name="MenuTextStyle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+
+    <style name="guid_radiobtn" parent="Widget.AppCompat.CompoundButton.CheckBox">
+        <item name="android:gravity">center</item>
+        <item name="android:button">@null</item>
+    </style>
+
+    <style name="DialogTheme" parent="android:Theme.Dialog">
+        <item name="android:windowIsFloating">false</item>
+    </style>
+
+
+    <color name="material_blue_500">#009688</color>
+    <color name="material_blue_700">#00796B</color>
+    <color name="material_green_A200">#FD87A9</color>
+    <color name="material_edit">#757575</color>
+
+    <color name="material_orange_500">#ff9800</color>
+    <color name="material_orange_700">#f57c00</color>
+
+
+    <style name="AppTheme.TransparentActivity">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+
+    <style name="Divider" parent="@style/mw">
+        <item name="android:layout_height">1px</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">#e5e5e5</item>
+    </style>
+
+    <style name="Divider_Ver" parent="@style/mw">
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">1px</item>
+        <item name="android:background">#e5e5e5</item>
+        <!--#50BFBFBF-->
+    </style>
+
+    <style name="AppSplash" parent="commonTheme">
+        <item name="android:windowBackground">@drawable/splash_bg</item>
+    </style>
+
+    <style name="Translucent_NoTitle" parent="android:Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+
+    <style name="Divider_" parent="@style/mw">
+        <item name="android:layout_height">1px</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@color/item_encircle_line</item>
+    </style>
+
+    <style name="InnerDivider" parent="Divider">
+        <item name="android:layout_height">1px</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">#FFe5e5e5</item>
+        <item name="android:layout_marginLeft">14dp</item>
+        <item name="android:layout_marginRight">14dp</item>
+    </style>
+
+    <style name="mypopwindow_anim_style">
+        <!-- 指定显示的动画xml -->
+
+        <!-- 指定消失的动画xml -->
+    </style>
+
+    <style name="DialogStyle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <style name="MapDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+
+        <!--<item name="android:backgroundDimEnabled">false</item>-->
+        <!--<item name="android:windowIsTranslucent">false</item>-->
+        <!--<item name="android:backgroundDimAmount">0.6</item>-->
+
+    </style>
+
+    <style name="chat_text_date_style">
+        <item name="android:paddingTop">2dip</item>
+        <item name="android:paddingBottom">2dip</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="chat_content_date_style">
+        <item name="android:minHeight">50dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:background">#bfbfbf</item>
+    </style>
+
+    <style name="chat_text_name_style">
+        <item name="android:textColor">#818181</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+</resources>

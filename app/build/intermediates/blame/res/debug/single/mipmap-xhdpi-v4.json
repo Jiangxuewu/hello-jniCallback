@@ -1,0 +1,1238 @@
+[
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_pager_btnpress.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_pager_btnpress.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ask_ask.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ask_ask.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_male.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_male.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_defalut_car_unselected.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_defalut_car_unselected.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_page2.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_page2.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_message4.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_message4.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_evaluate_s.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_evaluate_s.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_head5.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_head5.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_spoildialog2.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_spoildialog2.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_viloation_add.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_viloation_add.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidusound_press14.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidusound_press14.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_36.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_36.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_weather_location.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_weather_location.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_lottert_back_arraw_sel.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_lottert_back_arraw_sel.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_pop_btn2.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_pop_btn2.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_search.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_search.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_icon_sel.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_icon_sel.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_icon_nor.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_icon_nor.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_citydown.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_citydown.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\tab_icon_keyboard_s.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\tab_icon_keyboard_s.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_adopt.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_adopt.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_advisory_upkeep.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_advisory_upkeep.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_eidt_violation_carlist.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_eidt_violation_carlist.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_order.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_order.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_card.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_card.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_lovecar_press.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_lovecar_press.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_head_image_bg.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_head_image_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_detail_head.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_detail_head.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_done.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_done.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_search_1.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_search_1.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_found_5.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_found_5.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_detail_integral.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_detail_integral.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\weather_back.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\weather_back.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_login_dropdown.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_login_dropdown.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_evaluate.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_evaluate.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidusound_press8.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidusound_press8.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_34.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_34.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_arrows_down.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_arrows_down.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_found_7.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_found_7.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ask_uploadpic_sel.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ask_uploadpic_sel.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_found_1.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_found_1.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\tack_save_button_32_white.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\tack_save_button_32_white.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidumap_direction.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidumap_direction.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_nocar.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_nocar.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_violationlist.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_violationlist.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_free_uncheck.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_free_uncheck.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_edit.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_edit.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\btn_forward_pressed.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\btn_forward_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_accept_no.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_accept_no.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_weather_travel.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_weather_travel.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_lottery_toolbar_down.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_lottery_toolbar_down.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_message2.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_message2.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\guide_home.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\guide_home.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_lovecar_nopress.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_lovecar_nopress.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_login_huo.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_login_huo.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_car_cer_success.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_car_cer_success.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_violationnolist.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_violationnolist.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_login_codelogin.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_login_codelogin.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidusound_press6.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidusound_press6.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\as_actionsheet_middle_pressed.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\as_actionsheet_middle_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\tab_icon_pic_s.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\tab_icon_pic_s.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_accept_yes.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_accept_yes.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_lottery_t2.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_lottery_t2.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_newcar_nor.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_newcar_nor.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_46.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_46.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_taking.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_taking.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\btn_forward_normal.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\btn_forward_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_bottom1_press.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_bottom1_press.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_bottom2_nopress.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_bottom2_nopress.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_head.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_head.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\as_actionsheet_single_normal.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\as_actionsheet_single_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\as_actionsheet_middle_normal.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\as_actionsheet_middle_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_bottom_nourish.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_bottom_nourish.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\guide_inner_4_4.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\guide_inner_4_4.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_seach.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_seach.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\guide_inner_4_1.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\guide_inner_4_1.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_address.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_address.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_right1.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_right1.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_30.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_30.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\guide_inner_2_2.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\guide_inner_2_2.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\as_bg_ios6.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\as_bg_ios6.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_weather.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_weather.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\guide_inner_1_2.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\guide_inner_1_2.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\guide_inner_4_2.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\guide_inner_4_2.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_44.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_44.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\coupon_bg_d.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\coupon_bg_d.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\guide_inner_4_3.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\guide_inner_4_3.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_43.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_43.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_item_contact.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_item_contact.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_upkeep_ho.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_upkeep_ho.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\guide_inner_1_4.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\guide_inner_1_4.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_lovecar_pressbtn.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_lovecar_pressbtn.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\guide_inner_3_4.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\guide_inner_3_4.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_26.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_26.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_right.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_right.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_arrows_right.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_arrows_right.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_avator.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_avator.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_unwind.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_unwind.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_service.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_service.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_gas_icon_sel.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_gas_icon_sel.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_lovecar.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_lovecar.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidusound_press2.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidusound_press2.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_newcar_sel.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_newcar_sel.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_advisory_oline.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_advisory_oline.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidusound_press10.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidusound_press10.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_item_message_free.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_item_message_free.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_botton1.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_botton1.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidumap_reduction.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidumap_reduction.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_45.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_45.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_banner1.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_banner1.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_lottery_t4.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_lottery_t4.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_deletedialog.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_deletedialog.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_set.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_set.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\guide_freeask.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\guide_freeask.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_dialog.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_dialog.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_system.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_system.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\guide_inner_3_5.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\guide_inner_3_5.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_search_2.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_search_2.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_register_check.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_register_check.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_freeask_select.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_freeask_select.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ask_uploadpic_nor.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ask_uploadpic_nor.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_head3.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_head3.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_fab.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fab.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\guide_inner_2_1.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\guide_inner_2_1.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_bottom1_nopress.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_bottom1_nopress.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_ing.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_ing.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_feedback.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_feedback.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidusound_press7.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidusound_press7.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_titletop.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_titletop.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_found_6.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_found_6.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_ok.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_ok.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_lottert_back_arraw_normal.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_lottert_back_arraw_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_gas_icon_nor.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_gas_icon_nor.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_register_uncheck.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_register_uncheck.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ask_answer.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ask_answer.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_spoildialog.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_spoildialog.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidusound_press1.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidusound_press1.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_car_info.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_car_info.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_weather_car.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_weather_car.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_pic_plus.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_pic_plus.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_free_check.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_free_check.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_message1.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_message1.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_page1.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_page1.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\as_other_bt_bg.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\as_other_bt_bg.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_search1.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_search1.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_dialog_expert_bg_kaibei.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_dialog_expert_bg_kaibei.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\btn_refresh_pressed.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\btn_refresh_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_found_4.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_found_4.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_bottom3_press.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_bottom3_press.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidumap_popup.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidumap_popup.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_violation_kuang.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_violation_kuang.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_weather_ba.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_weather_ba.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_35.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_35.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_head6.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_head6.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_dialog_icon_voice_1.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_dialog_icon_voice_1.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\coupon_bg_h.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\coupon_bg_h.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_message3.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_message3.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidusound_press9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidusound_press9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_lottery_t1.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_lottery_t1.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_head4.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_head4.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\btn_refresh_normal.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\btn_refresh_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_redp.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_redp.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_item_img.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_item_img.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_coupon.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_coupon.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_page3.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_page3.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ask_addask.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ask_addask.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\btn_back_pressed.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\btn_back_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_caradd.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_caradd.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_pop_btn1.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_pop_btn1.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\met_ic_clear.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\met_ic_clear.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidusound_wave.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidusound_wave.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_defalut_car_selected.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_defalut_car_selected.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_botton4.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_botton4.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidusound_press13.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidusound_press13.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidumap_me.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidumap_me.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_register_uncheck.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_register_uncheck.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidusound_showtext1.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidusound_showtext1.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_detail.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_detail.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_message5.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_message5.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_lottery_t3.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_lottery_t3.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_guide.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_guide.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ask_v.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ask_v.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_append_ask_select.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_append_ask_select.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\as_actionsheet_single_pressed.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\as_actionsheet_single_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_redp.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_redp.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_37.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_37.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_sign.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_sign.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_violation_detail.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_violation_detail.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_found_2.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_found_2.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\as_actionsheet_bottom_pressed.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\as_actionsheet_bottom_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_weather_left.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_weather_left.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_33.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_33.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidusound_press11.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidusound_press11.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_lovecar_default_press.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_lovecar_default_press.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_39.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_39.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_head2.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_head2.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\news_addask_blue.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\news_addask_blue.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_car_logo_ad.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_car_logo_ad.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\guide_inner_3_6.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\guide_inner_3_6.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_found_open.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_found_open.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_search_reuslt_tag2.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_search_reuslt_tag2.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_violation2.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_violation2.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\narrow_sign.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\narrow_sign.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_bottom2_press.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_bottom2_press.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_lovecar_btn.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_lovecar_btn.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_botton2.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_botton2.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_violation_right.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_violation_right.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_40.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_40.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_banner2.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_banner2.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_lottery_t8.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_lottery_t8.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_hashandle.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_hashandle.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_adopt_select.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_adopt_select.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_lottery_t5.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_lottery_t5.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\guide_expert.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\guide_expert.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidumap_infowindow.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidumap_infowindow.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_title1.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_title1.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\btn_export_pressed.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\btn_export_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidumap_add.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidumap_add.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_lovecar_default_nopress.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_lovecar_default_nopress.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_advisory_right.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_advisory_right.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_seach.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_seach.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_adopt_normal.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_adopt_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\as_cancel_bt_bg.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\as_cancel_bt_bg.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidusound_press3.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidusound_press3.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_lottery_t7.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_lottery_t7.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_sound_bg_voice.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_sound_bg_voice.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\btn_back_normal.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\btn_back_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\guide_inner_3_2.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\guide_inner_3_2.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_28.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_28.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\guide_inner_3_3.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\guide_inner_3_3.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\guide_inner_2_3.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\guide_inner_2_3.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_advisory_special.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_advisory_special.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\as_actionsheet_top_pressed.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\as_actionsheet_top_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\icon_pic_plus.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\icon_pic_plus.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_27.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_27.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\icon_wind.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\icon_wind.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\tab_icon_pic.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\tab_icon_pic.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_29.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_29.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_defaultweather_01.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_defaultweather_01.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_head1.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_head1.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\guide_inner_1_1.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\guide_inner_1_1.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_bottom_advisory.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_bottom_advisory.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ask_vote.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ask_vote.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_sun.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_sun.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_31.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_31.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_violation.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_violation.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_append_ask_normal.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_append_ask_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_pager_btn.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_pager_btn.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_arrows_down_blue.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_arrows_down_blue.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_lottery_t6.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_lottery_t6.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidusound_press5.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidusound_press5.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_arrow.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_arrow.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\btn_export_normal.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\btn_export_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_found_8.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_found_8.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_42.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_42.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_stop_icon_nor.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_stop_icon_nor.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_taking.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_taking.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_default_image.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_default_image.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_cardelete.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_cardelete.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\guide_inner_3_1.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\guide_inner_3_1.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_47.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_47.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\icon_seach.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\icon_seach.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\tack_save_button_32_blue.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\tack_save_button_32_blue.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_lovecar_nopressbtn.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_lovecar_nopressbtn.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_female.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_female.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\as_actionsheet_top_normal.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\as_actionsheet_top_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidusound_showtext2.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidusound_showtext2.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\guide_inner_1_0.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\guide_inner_1_0.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_evaluate.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_evaluate.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_alllist.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_alllist.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_title3.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_title3.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_air.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_air.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_41.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_41.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_lovecar_edit_nopress.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_lovecar_edit_nopress.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_default_imageround.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_default_imageround.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_leftmune_bg.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_leftmune_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_botton3.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_botton3.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_38.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_38.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_arrows_left.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_arrows_left.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\login_eye.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\login_eye.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_banner3.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_banner3.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_endorsement.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_endorsement.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_light_32.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_light_32.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_title2.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_title2.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidusound_nopress.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidusound_nopress.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_bottom3_nopress.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_bottom3_nopress.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\tab_icon_voice_s.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\tab_icon_voice_s.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidusound_press4.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidusound_press4.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\tab_icon_voice.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\tab_icon_voice.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_found_3.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_found_3.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_register_check.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_register_check.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_baidusound_press12.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_baidusound_press12.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_home_next.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_next.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ask_agree.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ask_agree.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_page4.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_page4.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_lovecar_edit_press.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_lovecar_edit_press.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\as_actionsheet_bottom_normal.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\as_actionsheet_bottom_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_dialog_add_bg.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_dialog_add_bg.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_cooperate.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_cooperate.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_advisory_common.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_advisory_common.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_weather_uvicon.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_weather_uvicon.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_bottom_home.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_bottom_home.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_upkeep_st.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_upkeep_st.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_bottom_my.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_bottom_my.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_pop_show.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_pop_show.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\tab_icon_keyboard.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\tab_icon_keyboard.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_my_about.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_about.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_stop_icon_sel.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\mipmap-xhdpi\\ic_stop_icon_sel.png"
+    }
+]

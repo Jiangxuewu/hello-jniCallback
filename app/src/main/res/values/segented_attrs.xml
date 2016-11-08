@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <declare-styleable name="SegmentedGroup">
+        <attr name="sg_corner_radius" format="dimension" />
+        <attr name="sg_border_width" format="dimension" />
+        <attr name="sg_tint_color" format="color" />
+        <attr name="sg_checked_text_color" format="color" />
+        <attr name="sg_pressed_text_color" format="color" />
+    </declare-styleable>
+</resources>

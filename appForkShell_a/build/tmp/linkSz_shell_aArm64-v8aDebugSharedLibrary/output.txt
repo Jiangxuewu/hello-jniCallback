@@ -1,0 +1,4 @@
+See file:///D:/Android/Sample/Ndk/android-ndk-master/hello-jniCallback/appForkShell_a/build/tmp/linkSz_shell_aArm64-v8aDebugSharedLibrary/output.txt for all output for linkSz_shell_aArm64-v8aDebugSharedLibrary.
+linking libsz_shell_a.so successful.
+
+Finished linkSz_shell_aArm64-v8aDebugSharedLibrary, see full log file:///D:/Android/Sample/Ndk/android-ndk-master/hello-jniCallback/appForkShell_a/build/tmp/linkSz_shell_aArm64-v8aDebugSharedLibrary/output.txt.

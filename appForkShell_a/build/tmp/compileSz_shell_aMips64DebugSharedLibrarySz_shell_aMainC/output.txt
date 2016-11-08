@@ -1,0 +1,116 @@
+See file:///D:/Android/Sample/Ndk/android-ndk-master/hello-jniCallback/appForkShell_a/build/tmp/compileSz_shell_aMips64DebugSharedLibrarySz_shell_aMainC/output.txt for all output for compileSz_shell_aMips64DebugSharedLibrarySz_shell_aMainC.
+compiling sz_shell_a.c successful.
+
+compiling check.c successful.
+
+compiling http.c successful.
+
+compiling reflex.c successful.
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\reflex.c: In function 'runStaticIntMethod':
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\reflex.c:74:9: warning: return makes integer from pointer without a cast
+         return NULL;
+         ^
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\reflex.c:78:9: warning: return makes integer from pointer without a cast
+         return NULL;
+         ^
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\reflex.c: In function 'runIntMethod':
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\reflex.c:136:9: warning: return makes integer from pointer without a cast
+         return NULL;
+         ^
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\reflex.c:140:9: warning: return makes integer from pointer without a cast
+         return NULL;
+         ^
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\reflex.c: In function 'runBooleanMethod':
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\reflex.c:156:9: warning: return makes integer from pointer without a cast
+         return NULL;
+         ^
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\reflex.c:160:9: warning: return makes integer from pointer without a cast
+         return NULL;
+         ^
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\reflex.c: In function 'getStaticIntFiled':
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\reflex.c:216:9: warning: return makes integer from pointer without a cast
+         return NULL;
+         ^
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\reflex.c:220:9: warning: return makes integer from pointer without a cast
+         return NULL;
+         ^
+
+compiling shell.c successful.
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.c: In function 'addShell':
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.c:54:12: warning: passing argument 1 of 'strcpy' from incompatible pointer type
+     strcpy(mDexPathTmp, "/data/data/");
+            ^
+In file included from D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.h:6:0,
+                 from D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.c:5:
+D:\Android\android-ndk-r12-beta1/platforms/android-23/arch-mips64/usr/include/string.h:57:15: note: expected 'char * __restrict__' but argument is of type 'char **'
+ extern char*  strcpy(char* __restrict, const char* __restrict);
+               ^
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.c:55:12: warning: passing argument 1 of 'strcat' from incompatible pointer type
+     strcat(mDexPathTmp, mPKName);
+            ^
+In file included from D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.h:6:0,
+                 from D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.c:5:
+D:\Android\android-ndk-r12-beta1/platforms/android-23/arch-mips64/usr/include/string.h:58:15: note: expected 'char * __restrict__' but argument is of type 'char **'
+ extern char*  strcat(char* __restrict, const char* __restrict);
+               ^
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.c:56:12: warning: passing argument 1 of 'strcat' from incompatible pointer type
+     strcat(mDexPathTmp, "/xx_shell");
+            ^
+In file included from D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.h:6:0,
+                 from D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.c:5:
+D:\Android\android-ndk-r12-beta1/platforms/android-23/arch-mips64/usr/include/string.h:58:15: note: expected 'char * __restrict__' but argument is of type 'char **'
+ extern char*  strcat(char* __restrict, const char* __restrict);
+               ^
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.c:57:22: warning: initialization from incompatible pointer type
+     char *mDexPath = mDexPathTmp;
+                      ^
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.c:68:12: warning: passing argument 1 of 'strcpy' from incompatible pointer type
+     strcpy(mLibPathTmp, "/data/data/");
+            ^
+In file included from D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.h:6:0,
+                 from D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.c:5:
+D:\Android\android-ndk-r12-beta1/platforms/android-23/arch-mips64/usr/include/string.h:57:15: note: expected 'char * __restrict__' but argument is of type 'char **'
+ extern char*  strcpy(char* __restrict, const char* __restrict);
+               ^
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.c:69:12: warning: passing argument 1 of 'strcat' from incompatible pointer type
+     strcat(mLibPathTmp, mPKName);
+            ^
+In file included from D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.h:6:0,
+                 from D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.c:5:
+D:\Android\android-ndk-r12-beta1/platforms/android-23/arch-mips64/usr/include/string.h:58:15: note: expected 'char * __restrict__' but argument is of type 'char **'
+ extern char*  strcat(char* __restrict, const char* __restrict);
+               ^
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.c:70:12: warning: passing argument 1 of 'strcat' from incompatible pointer type
+     strcat(mLibPathTmp, "/lib");
+            ^
+In file included from D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.h:6:0,
+                 from D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.c:5:
+D:\Android\android-ndk-r12-beta1/platforms/android-23/arch-mips64/usr/include/string.h:58:15: note: expected 'char * __restrict__' but argument is of type 'char **'
+ extern char*  strcat(char* __restrict, const char* __restrict);
+               ^
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.c:71:22: warning: initialization from incompatible pointer type
+     char *mLibPath = mLibPathTmp;
+                      ^
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.c:76:12: warning: passing argument 1 of 'strcpy' from incompatible pointer type
+     strcpy(mDexFileTmp, mDexPath);
+            ^
+In file included from D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.h:6:0,
+                 from D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.c:5:
+D:\Android\android-ndk-r12-beta1/platforms/android-23/arch-mips64/usr/include/string.h:57:15: note: expected 'char * __restrict__' but argument is of type 'char **'
+ extern char*  strcpy(char* __restrict, const char* __restrict);
+               ^
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.c:77:12: warning: passing argument 1 of 'strcat' from incompatible pointer type
+     strcat(mDexFileTmp, "/dex2.zip");
+            ^
+In file included from D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.h:6:0,
+                 from D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.c:5:
+D:\Android\android-ndk-r12-beta1/platforms/android-23/arch-mips64/usr/include/string.h:58:15: note: expected 'char * __restrict__' but argument is of type 'char **'
+ extern char*  strcat(char* __restrict, const char* __restrict);
+               ^
+D:\Android\Sample\Ndk\android-ndk-master\hello-jniCallback\appForkShell_a\src\main\jni\shell.c:78:22: warning: initialization from incompatible pointer type
+     char *mDexFile = mDexFileTmp;
+                      ^
+
+compiling log.c successful.
+
+Finished compileSz_shell_aMips64DebugSharedLibrarySz_shell_aMainC, see full log file:///D:/Android/Sample/Ndk/android-ndk-master/hello-jniCallback/appForkShell_a/build/tmp/compileSz_shell_aMips64DebugSharedLibrarySz_shell_aMainC/output.txt.

@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">hello-jniCallback</string>
+	<string name="app_name_main">车乎</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_consultative_aty">ConsultativeAty</string>
+
+    <string name="aboutus">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;开呗是深圳市海德在线有限公司专为广大车主开发的一款中国最具活力的车生活服务平台，平台围绕车主进行全面资源整合，深度解决车主的车生活痛点，开启车主快捷方便、轻松愉悦的车生活一键达成模式，具备“便捷、透明、质优、价廉”的功能，拥有体验超值化、服务多样化、交易方便化、应用广泛化四大特点，目前拥有50万车主用户。主要服务端口有：APP客户端、微信公众号和PC端，以满足不同客户的使用要求。</string>
+
+    <string name="register_name"><!--<u>-->《用户协议》<!--</u>--></string>
+    <string name="title_activity_message_aty">MessageAty</string>
+    <!--积分-->
+    <string name="str_score_recharge">充值规则: 1元=10积分</string>
+    <string name="str_score_pay">支付方式选择</string>
+    <string name="hint_score_money">请输入要充值的金额</string>
+    <string name="str_score_value">你充值的积分值为:</string>
+    <string name="hint_input_coupon">请输入您的优惠码</string>
+
+    <string name="signtext">获得%1$s积分,明天继续努力哦!</string>
+    <!--Violation Regulation-->
+    <string name="hint_input_plate_number">请输入车牌号</string>
+    <string name="hint_input_engine_number">请输入后六位发动机号码</string>
+    <string name="hint_input_car_frame_number">请输入后六位车架号码</string>
+    <string name="violation_tips">信息仅用于违章查询 , 车乎将严格保密 , 请放心填写</string>
+    <string name="str_non_defalut_car_tips">完善车型，问答搜索将更精准</string>
+
+    <string name="setting_help_url">http://res.91czs.com/other/html/usr-help.html</string>
+
+    <string-array name="messageArr">
+        <item>专家消息</item>
+        <item>系统消息</item>
+    </string-array>
+
+    <string-array name="apps_func">
+        <item>图片</item>
+        <item>拍照</item>
+    </string-array>
+
+    <string-array name="apps_func_icon">
+        <item>icon_photo</item>
+        <item>icon_camera</item>
+    </string-array>
+
+    <string name="gravity_left">left</string>
+    <string name="gravity_center">center</string>
+    <string name="gravity_right">right</string>
+    <string name="regist_lottery_info_win"><Data><![CDATA[<font color="#ffffff">幸运的第</font><font color="#39A1E7">%s</font><font color="#ffffff">位用户,</font><br /><font color="#ffffff">马上联系客服,领取你的</font><font color="#FFA336">幸运礼包</font><font color="#FFFFFF">哦！</font>]]></Data></string>
+    <string name="Tip_CitySeclect">请选择你所在的城市</string>
+    <string name="TipSelectCar">请选择你的车型</string>
+    <string name="TipSelectSex">请选择你的性别</string>
+    <string name="Logoff_notification">下线通知</string>
+    <string name="connect_conflict">同一帐号已在其他设备登录</string>
+
+    <string name="regist_lottery_info_lose"><Data>
+        <![CDATA[<font color="#515151">欢迎你，车乎的第 </font>
+        <font color="#ff552e">%s</font>
+        <font color="#515151"> 位用户，接下来的旅程更美哦！</font>]]></Data></string>
+
+
+    <string name="ongoing_signin_info"><Data>
+        <![CDATA[<font color="#777777">累积签到</font>
+    <font color="#ff552e">%1$s</font>
+    <font color="#777777">天,已连续签到</font>
+    <font color="#ff552e">%2$s</font>
+    <font color="#777777">天</font>
+    ]]></Data></string>
+
+    <string name="signin_success_msg"><Data>
+        <![CDATA[<font color="#ffffff">签到成功</font>
+    <font color="#4c88f5">+%s积分</font>
+    <br />
+    <font color="#ffffff">获得</font>
+    <font color="#ffa336">一次抽奖机会</font>
+    <font color="#ffffff">，快去抽奖吧</font>
+    ]]></Data></string>
+
+
+       <string name="share_top_info"><Data>
+        <![CDATA[<font color="#555555">每日首次分享成功可</font>
+    <font color="#ff552e">%s</font>
+    <font color="#555555">积分,任性的分享给朋友</font>
+
+    ]]></Data></string>
+
+    <string name="ptr_pull_to_refresh">下拉刷新…</string>
+    <string name="ptr_release_to_refresh">松开刷新…</string>
+    <string name="ptr_refreshing">正在刷新…</string>
+    <string name="ptr_last_updated">上次更新: %1$s</string>
+
+    <string name="collect">收藏</string>
+    <string name="cancel_collect">取消收藏</string>
+
+    <string name="j_pickerview_cancel">取消</string>
+    <string name="j_pickerview_submit">确定</string>
+    <string name="login_guide_tip_1">我们乘着车游荡在远方\n车窗外的世界总是与众不同</string>
+    <string name="login_guide_tip_2">走出去，再回来\n寻找的不过是美好</string>
+    <string name="login_guide_tip_3">而此刻，车乎一直都在</string>
+    <string name="login_temp_user">先去看看</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="to_sign">去签到</string>
+    <string name="addTag">添加标签</string>
+    <string name="login_with_other_account">使用其他帐号</string>
+    <string name="login_with_other_account_third">第三方帐号登录</string>
+    <string name="weixin">微信</string>
+    <string name="qq">QQ</string>
+    <string name="sina">微博</string>
+    <string name="agree_user_agreement">点击完成，即表示你已阅读并同意</string>
+    <string name="thread_auth_failed">授权失败</string>
+    <string name="thread_auth_cancel">取消授权</string>
+    <string name="thread_auth_error">授权异常:</string>
+    <string name="thread_auth_net_error">网络异常,请稍后重试</string>
+    <string name="local_city">所在城市</string>
+    <string name="select_car_type">选择车型</string>
+    <string name="car_license_time">上牌时间</string>
+    <string name="travel_mileage">行驶里程</string>
+    <string name="local_city_hint">深圳</string>
+    <string name="select_car_type_hint">请选择车型</string>
+    <string name="car_license_time_hint">请选择首次上牌时间</string>
+    <string name="travel_mileage_hint">请输入里程数</string>
+    <string name="mileage_unit">万公里</string>
+    <string name="valuation_record">估值记录</string>
+    <string name="car_assessment">车辆评估</string>
+    <string name="clear_valuation_record_title">清空估值记录列表</string>
+    <string name="clear_valuation_record_msg">当前页的估值记录将被清空，是否确认?</string>
+    <string name="cancel">取消</string>
+    <string name="sure">确认</string>
+    <string name="delete">删除</string>
+    <string name="done">完成</string>
+    <string name="year">年</string>
+    <string name="month">月</string>
+    <string name="day">日</string>
+    <string name="start_assessment">开始估值</string>
+    <string name="supper_tips_info">由车300提供技术支持</string>
+    <string name="perfect_car_info_hint">完善车型即可获得50积分</string>
+    <string name="weixin_not_install">未安装微信</string>
+    <string name="qq_not_install">未安装QQ</string>
+    <string name="car_valuation_record_none">你当前还没有估值记录~</string>
+    <string name="not_set">未设置</string>
+    <string name="third_input_data_code_tip">请输入正确验证码</string>
+    <string name="third_input_data_phone_tip">请输入正确手机号</string>
+    <string name="car_assessment_select_car_type">请先选择车型</string>
+    <string name="permission_request_failed">权限申请失败</string>
+
+
+</resources>

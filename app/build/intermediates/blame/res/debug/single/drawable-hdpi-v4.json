@@ -1,0 +1,610 @@
+[
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_state_fail_resend_pressed.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\msg_state_fail_resend_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f637.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f637.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f623.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f623.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f468.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f468.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shadow.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\shadow.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_top.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\splash_top.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f467.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f467.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\found_activity_area_loading_bg.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\found_activity_area_loading_bg.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x2764.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x2764.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f622.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f622.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_01.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\record_animate_01.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\found_activity_area_top_layer.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\found_activity_area_top_layer.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\j_wheel_timebtn.xml",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\j_wheel_timebtn.xml"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f469.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f469.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f466.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f466.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x270a.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x270a.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f436.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f436.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f50d.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f50d.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x270c.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x270c.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f604.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f604.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f62d.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f62d.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f62a.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f62a.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f37a.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f37a.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f319.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f319.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a0w.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\a0w.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x2601.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x2601.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f618.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f618.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f633.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f633.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_bottom.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\splash_bottom.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f60c.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f60c.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x2600.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x2600.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f448.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f448.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\soude_record_lock.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\soude_record_lock.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f341.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f341.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f621.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f621.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f61e.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f61e.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f60f.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f60f.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f602.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f602.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f697.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f697.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_bar_circle_rotate.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\progress_bar_circle_rotate.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f385.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f385.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f457.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f457.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f382.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f382.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f31f.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f31f.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f33b.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f33b.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f44d.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f44d.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_emoji.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\icon_emoji.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f628.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f628.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f431.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f431.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f631.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f631.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f630.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f630.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f61d.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f61d.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_go_register_cancel.xml",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\dialog_go_register_cancel.xml"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ask_answer_fragment_bg.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\ask_answer_fragment_bg.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f559.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f559.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f614.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f614.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\item_adopt_top_noacess_bg.xml",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\item_adopt_top_noacess_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f44e.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f44e.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f47f.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f47f.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f44c.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f44c.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f447.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f447.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f44f.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f44f.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f444.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f444.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x26a1.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x26a1.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\j_wheel_val.xml",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\j_wheel_val.xml"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f612.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f612.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f64f.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f64f.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f3e0.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f3e0.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f601.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f601.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mini_avatar_shadow.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\mini_avatar_shadow.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f61c.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f61c.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f343.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f343.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f603.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f603.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_unread.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\voice_unread.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f47b.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f47b.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f609.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f609.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_exception.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\ic_exception.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f620.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f620.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f4aa.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f4aa.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f381.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f381.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f44a.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f44a.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\input_bar_bg_normal.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\input_bar_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f61a.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f61a.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x2614.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x2614.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_state_fail_resend.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\msg_state_fail_resend.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f625.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f625.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x2615.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x2615.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_bg.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\splash_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f4a3.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f4a3.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f380.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f380.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f494.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f494.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f613.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f613.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f60a.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f60a.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f339.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f339.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x26bd.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x26bd.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f60d.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f60d.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f446.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f446.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sign_btn_bg.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\sign_btn_bg.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f449.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f449.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f616.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f616.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f48e.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f48e.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f632.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f632.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\input_bar_bg_active.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\input_bar_bg_active.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_error_icon.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\login_error_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_0x1f4f1.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-hdpi\\emoji_0x1f4f1.png"
+    }
+]

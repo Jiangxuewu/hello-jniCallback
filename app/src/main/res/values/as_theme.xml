@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ActionSheetStyleIOS6">
+        <item name="cancelButtonTextColor">@android:color/white</item>
+        <item name="otherButtonTextColor">@android:color/black</item>
+        <item name="actionSheetPadding">20dp</item>
+        <item name="otherButtonSpacing">5dp</item>
+        <item name="cancelButtonMarginTop">20dp</item>
+        <item name="actionSheetTextSize">16sp</item>
+    </style>
+
+    <style name="ActionSheetStyleIOS7">
+        <item name="actionSheetBackground">@android:color/transparent</item>
+        <item name="cancelButtonTextColor">#1E82FF</item>
+        <item name="otherButtonTextColor">#1E82FF</item>
+        <item name="actionSheetPadding">10dp</item>
+        <item name="otherButtonSpacing">0dp</item>
+        <item name="cancelButtonMarginTop">10dp</item>
+        <item name="actionSheetTextSize">16sp</item>
+    </style>
+
+</resources>

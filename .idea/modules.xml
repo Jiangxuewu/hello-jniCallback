@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appForSDK/appForSDK.iml" filepath="$PROJECT_DIR$/appForSDK/appForSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appForkAd/appForkAd.iml" filepath="$PROJECT_DIR$/appForkAd/appForkAd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appForkHttp/appForkHttp.iml" filepath="$PROJECT_DIR$/appForkHttp/appForkHttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appForkShell_a/appForkShell_a.iml" filepath="$PROJECT_DIR$/appForkShell_a/appForkShell_a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appForkShell_b/appForkShell_b.iml" filepath="$PROJECT_DIR$/appForkShell_b/appForkShell_b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appForkShell_x/appForkShell_x.iml" filepath="$PROJECT_DIR$/appForkShell_x/appForkShell_x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-jniCallback.iml" filepath="$PROJECT_DIR$/hello-jniCallback.iml" />
+    </modules>
+  </component>
+</project>

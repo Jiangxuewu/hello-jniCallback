@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\zan_normal.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\zan_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_found_car_guide.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\icon_found_car_guide.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_found_indicator_light.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\icon_found_indicator_light.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pv_eye_2.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\pv_eye_2.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_found_score_mall.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\icon_found_score_mall.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\chatfrom_bg_focused.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\chatfrom_bg_focused.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\chatfrom_bg_normal_img.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\chatfrom_bg_normal_img.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\main_guide_left_top_star.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\main_guide_left_top_star.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_message.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\icon_message.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\guide_found_sign.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\guide_found_sign.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\third_perfect_info_title_bg.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\third_perfect_info_title_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\poll_add_option_icon.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\poll_add_option_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\chatto_bg_focused.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\chatto_bg_focused.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\chatfrom_bg_focused_img.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\chatfrom_bg_focused_img.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_found_comm_problem.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\icon_found_comm_problem.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\guide_found_oil_card.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\guide_found_oil_card.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\car_auth_not.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\car_auth_not.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\soude_record_mic.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\soude_record_mic.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\voice_play_1_r.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\voice_play_1_r.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\main_guide_down_arrow.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\main_guide_down_arrow.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_found_car_park.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\icon_found_car_park.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\voice_play_1_l.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\voice_play_1_l.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\splash_bg.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\splash_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_main_comm_list_head_view_default.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\ic_main_comm_list_head_view_default.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_found_break_rules.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\icon_found_break_rules.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\car_auth_failed.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\car_auth_failed.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_found_integral_mall.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\icon_found_integral_mall.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_found_time_traffic.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\icon_found_time_traffic.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\main_ask_guide_slide.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\main_ask_guide_slide.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\chatfrom_bg_normal.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\chatfrom_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_found_rechage.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\icon_found_rechage.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\assessment_banner.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\assessment_banner.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\car_valuation_none_record.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\car_valuation_none_record.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\poll_option_del_icon.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\poll_option_del_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\main_ask_guide_icon.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\main_ask_guide_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_assessment.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\bg_assessment.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\found_activity_area_logo.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\found_activity_area_logo.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\guide_found_sign_icon.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\guide_found_sign_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\photo_head_icon.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\photo_head_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\chatto_bg_focused_img.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\chatto_bg_focused_img.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_found_car_assessment.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\icon_found_car_assessment.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\chatto_bg_normal_img.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\chatto_bg_normal_img.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\main_guide_down_txt.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\main_guide_down_txt.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\splash_bottom.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\splash_bottom.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\voice_play_2_l.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\voice_play_2_l.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\guide_i_had_know.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\guide_i_had_know.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\voice_play_2_r.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\voice_play_2_r.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\voice_play_3_r.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\voice_play_3_r.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_found_gas_station.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\icon_found_gas_station.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\voice_play_3_l.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\voice_play_3_l.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\zan_select.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\zan_select.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\chatto_bg_normal.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\chatto_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\splash_top.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\splash_top.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\guide_found_oil_star.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\guide_found_oil_star.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\car_authing.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\car_authing.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\guide_found_recharge_icon.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\src\\main\\res\\drawable-xxhdpi\\guide_found_recharge_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\Android\\Sample\\Ndk\\android-ndk-master\\hello-jniCallback\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    }
+]

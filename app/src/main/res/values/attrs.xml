@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="pull">    <!--pulllayout的属性-->
+        <attr name="header" format="reference|integer" />
+        <attr name="maxHeaderHeight" format="reference|dimension" />
+        <attr name="minHeaderHeight" format="reference|dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="BGABanner">
+        <!-- 指示点容器背景 -->
+        <attr name="banner_pointContainerBackground" format="reference|color" />
+        <!-- 指示点背景 -->
+        <attr name="banner_pointDrawable" format="reference" />
+        <!-- 指示点容器左右内间距 -->
+        <attr name="banner_pointContainerLeftRightPadding" format="dimension" />
+        <!-- 指示点上下外间距 -->
+        <attr name="banner_pointTopBottomMargin" format="dimension" />
+        <!-- 指示点左右外间距 -->
+        <attr name="banner_pointLeftRightMargin" format="dimension" />
+        <!-- 指示点的位置 -->
+        <attr name="banner_pointGravity">
+            <flag name="top" value="0x30" />
+            <flag name="bottom" value="0x50" />
+            <flag name="left" value="0x03" />
+            <flag name="right" value="0x05" />
+            <flag name="center_horizontal" value="0x01" />
+        </attr>
+        <!-- 是否开启自动轮播 -->
+        <attr name="banner_pointAutoPlayAble" format="boolean" />
+        <!-- 自动轮播的时间间隔 -->
+        <attr name="banner_pointAutoPlayInterval" format="integer" />
+        <!-- 页码切换过程的时间长度 -->
+        <attr name="banner_pageChangeDuration" format="integer" />
+        <!-- 页面切换的动画效果 -->
+        <attr name="banner_transitionEffect" format="enum">
+            <enum name="defaultEffect" value="0" />
+            <enum name="alpha" value="1" />
+            <enum name="rotate" value="2" />
+            <enum name="cube" value="3" />
+            <enum name="flip" value="4" />
+            <enum name="accordion" value="5" />
+            <enum name="zoomFade" value="6" />
+            <enum name="fade" value="7" />
+            <enum name="zoomCenter" value="8" />
+            <enum name="zoomStack" value="9" />
+            <enum name="stack" value="10" />
+            <enum name="depth" value="11" />
+            <enum name="zoom" value="12" />
+        </attr>
+        <!-- 提示文案的文字颜色 -->
+        <attr name="banner_tipTextColor" format="reference|color" />
+        <!-- 提示文案的文字大小 -->
+        <attr name="banner_tipTextSize" format="dimension" />
+    </declare-styleable>
+
+
+    <declare-styleable name="SlidingMenuQQ">
+        <attr name="rightPadding" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="TagFlowLayout">
+        <attr name="auto_select_effect" format="boolean"></attr>
+        <attr name="max_select" format="integer"></attr>
+        <attr name="gravity" format="string"></attr>
+    </declare-styleable>
+
+    <declare-styleable name="SoundBgView">
+        <attr name="radius_sound" format="dimension|reference" />
+        <attr name="split" format="dimension|reference" />
+    </declare-styleable>
+
+    <declare-styleable name="RangeSliderView">
+        <attr name="rangeCount" format="integer"/>
+        <attr name="filledColor" format="color"/>
+        <attr name="emptyColor" format="color"/>
+        <attr name="barHeightPercent" format="float"/>
+        <attr name="slotRadiusPercent" format="float"/>
+        <attr name="sliderRadiusPercent" format="float"/>
+    </declare-styleable>
+
+    <declare-styleable name="HeadView">
+        <attr name="showAuthentication" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="FoundItemWidget">
+        <attr name="content_paddingLeft" format="dimension" />
+        <attr name="content_paddingRight" format="dimension" />
+        <attr name="content_paddingTop" format="dimension" />
+        <attr name="content_paddingBottom" format="dimension" />
+        <attr name="content_countOfLine" format="integer" />
+        <attr name="content_tip" format="string" />
+    </declare-styleable>
+
+    <!--LabelView_New-->
+    <declare-styleable name="LabelView">
+        <!-- 设置文字内容 -->
+        <attr name="lv_text" format="string"/>
+        <!-- 设置文字颜色,默认#ffffff -->
+        <attr name="lv_text_color" format="color"/>
+        <!-- 设置文字大小,默认11sp -->
+        <attr name="lv_text_size" format="dimension"/>
+        <!-- 设置文字是否支持加粗,默认true -->
+        <attr name="lv_text_bold" format="boolean"/>
+        <!-- 设置文字是否支持全部大写,默认true-->
+        <attr name="lv_text_all_caps" format="boolean"/>
+        <!-- 设置背景颜色,默认"#FF4081"-->
+        <attr name="lv_background_color" format="color"/>
+        <!-- 设置LabelView所在矩形最小宽高,默认mFillTriangle?35dp:50dp-->
+        <attr name="lv_min_size" format="dimension"/>
+        <!-- 设置文字上下padding,默认3.5dp,mFillTriangle为true时无效-->
+        <attr name="lv_padding" format="dimension"/>
+        <!-- 设置LabelView方向 -->
+        <attr name="lv_gravity" format="enum">
+            <enum name="TOP_LEFT" value="51"/>
+            <enum name="TOP_RIGHT" value="53"/>
+            <enum name="BOTTOM_LEFT" value="83"/>
+            <enum name="BOTTOM_RIGHT" value="85"/>
+        </attr>
+        <!-- 设置是否填充三角区域,默认false -->
+        <attr name="lv_fill_triangle" format="boolean"/>
+
+    </declare-styleable>
+
+    <declare-styleable name="BreathingLightView">
+        <attr name="delayTime" format="float" />
+        <attr name="allTime" format="float" />
+    </declare-styleable>
+
+    <declare-styleable name="ChatImageView">
+        <attr name="chat_image_mask" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="ShaderImageView">
+        <attr name="siSquare" format="boolean" />
+        <attr name="siBorderColor" format="color" />
+        <attr name="siBorderWidth" format="dimension" />
+        <attr name="siBorderAlpha" format="float" />
+        <attr name="siForeground" format="integer|reference" />
+        <!--PorterImageView-->
+        <attr name="siShape" format="integer|reference" />
+    </declare-styleable>
+
+</resources>

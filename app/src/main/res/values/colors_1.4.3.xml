@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--全局主色
+        使用：导航&按钮
+        文字颜色,
+        链接文字颜色
+        -->
+
+    <color name="B1">#009FD3</color>
+    <!--二级滑动导航 &文字 主页用户名-->
+    <color name="B2">#2d8de1</color>
+    <!--按钮点击色-->
+    <color name="B3">#0090bf</color>
+    <!--标签-->
+    <color name="B4">#7190bf</color>
+    <!--日期，回答数-->
+    <color name="B5">#a1acb5</color>
+    <!--天气低温-->
+    <color name="B6">#76b9ff</color>
+    <!--二级导航栏文字颜色-->
+    <color name="G1">#333333</color>
+    <!--主文字颜色-->
+    <color name="G2">#555555</color>
+    <!--主页解答数-->
+    <color name="G3">#777777</color>
+    <!--注释文字颜色-->
+    <color name="G4">#929292</color>
+    <!--tabbar线条-->
+    <color name="G5">#b2b2b2</color>
+    <!--问题解答-->
+    <color name="G6">#999999</color>
+    <!--全局线条-->
+    <color name="G7">#e5e5e5</color>
+    <!--输入框内文字颜色-->
+    <color name="G8">#c7c7cd</color>
+    <!--专家回答背景-->
+    <color name="G9">#f8f8f8</color>
+    <!--专家回答背景描边-->
+    <color name="G10">#ecf1f3</color>
+    <!--整体大背景色-->
+    <color name="G11">#eef1f5</color>
+    <!--白色-->
+    <color name="W1">#ffffff</color>
+    <!--输助色-->
+    <color name="O1">#ff552e</color>
+    <color name="O2">#ffa336</color>
+    <color name="O3">#FF8903</color>
+
+
+    <color name="A1">#00a9c6</color>
+    <color name="A2">#029db7</color>
+    <color name="A3">#7fd4e2</color>
+    <color name="A4">#00b779</color>
+
+    <color name="R1">#FC7668</color>
+
+    <color name="tabbar_icon_text_sel_color">#00A0E9</color>
+    <!--跟G5一致-->
+    <color name="tabbar_icon_text_nor_color">#b2b2b2</color>
+
+</resources>

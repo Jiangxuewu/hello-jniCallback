@@ -1,0 +1,7 @@
+include ':app'
+include ':appForkAd'
+include ':appForSDK'
+include ':appForkShell_a'
+include ':appForkShell_b'
+include ':appForkShell_x'
+include ':appForkHttp'

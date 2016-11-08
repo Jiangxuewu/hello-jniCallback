@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_padding_top_Enhance">8dp</dimen>
+    <dimen name="default_padding_bottom_Enhance">8dp</dimen>
+    <dimen name="inner_padding_left_Enhance">0dp</dimen>
+    <dimen name="inner_padding_right_Enhance">0dp</dimen>
+    <dimen name="floating_label_text_size_Enhance">12sp</dimen>
+    <dimen name="bottom_text_size_Enhance">12sp</dimen>
+    <dimen name="inner_components_spacing_Enhance">8dp</dimen>
+    <dimen name="bottom_ellipsis_height_Enhance">4dp</dimen>
+</resources>

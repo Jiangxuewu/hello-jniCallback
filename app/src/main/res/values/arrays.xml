@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="driving_life_array">
+        <item>违章查询</item>
+        <item>加油充值</item>
+        <item>积分商城</item>
+        <item>车辆评估</item>
+        <item>实时路况</item>
+        <item>加油站</item>
+        <item>停车场</item>
+        <item>保养指南</item>
+    </array>
+
+</resources>

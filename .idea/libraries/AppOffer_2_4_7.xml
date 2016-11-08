@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AppOffer_2.4.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/appForSDK/libs/AppOffer_2.4.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

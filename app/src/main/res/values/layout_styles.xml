@@ -1,0 +1,229 @@
+<resources>
+
+
+    <style name="mm">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="mw">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="ww">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="wm">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="vertical">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="horizontal">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">2</item>
+    </style>
+
+    <!--bottom Layout布局相关style-->
+    <style name="bottomItem">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <!--<item name="android:background">@drawable/selector_bottom_item</item>-->
+    </style>
+
+    <style name="bottomItemTextView" parent="mm">
+        <item name="android:gravity">center|bottom</item>
+        <item name="android:padding">4dp</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="bottomItemBadgeView" parent="ww">
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:textColor">#010101</item>
+    </style>
+
+    <!--frg_my界面的布局风格-->
+    <style name="myItemLayout">
+        <item name="android:textColor">@color/hadlink_material_black</item>
+        <item name="android:clickable">true</item>
+        <!--<item name="android:layout_marginBottom">1dp</item>-->
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:drawableRight">@mipmap/ic_right_arrow</item>
+        <!--ic_my_right1-->
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">45dp</item>
+    </style>
+
+    <style name="Divider_itemlayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:background">#e5e5e5</item>
+    </style>
+    <!--frg my detail 界面布局风格-->
+    <style name="mydetailItemLayout">
+        <item name="android:layout_width">match_parent</item>
+        <!--<item name="android:layout_marginBottom">1dp</item>-->
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_height">48dp</item>
+    </style>
+
+    <style name="mydetailLeftText" parent="ww"><!--左边的文字-->
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/hadlink_material_black</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginLeft">12dp</item>
+    </style>
+
+    <style name="assessmentLeftText" parent="ww"><!--左边的文字-->
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/G2</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginLeft">14dp</item>
+    </style>
+
+    <!--添加汽车页面-->
+    <style name="addCar" parent="mw">
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:drawableRight">@mipmap/ic_my_arrows_right</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textColor">#000</item>
+    </style>
+
+    <!--未登陆上页面的按钮属性-->
+    <style name="noLoginBtn">
+        <item name="android:layout_marginLeft">12dp</item>
+        <item name="android:layout_marginRight">12dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <!--车辆评估页面的按钮属性-->
+    <style name="AssessmentBtn">
+        <item name="android:layout_marginLeft">14dp</item>
+        <item name="android:layout_marginRight">14dp</item>
+        <item name="android:layout_marginTop">14dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">42dp</item>
+        <item name="android:textColor">@color/W1</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <!--第二版home界面的六个item-->
+    <style name="homeSixItemLayout" parent="horizontal">
+        <item name="android:clickable">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="homeSixItemimg">
+        <item name="android:layout_width">30dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+    </style>
+
+    <style name="homeSixItemtxt" parent="ww">
+        <item name="android:layout_marginTop">3dp</item>
+        <item name="android:textColor">@color/hadlink_material_black</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!--第三版天气详情页-->
+    <style name="detailWeather">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="detailWeatherText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">@color/hadlink_material_white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:maxLines">1</item>
+    </style>
+
+    <style name="violationDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+
+    <!--发现页的数据-->
+    <style name="myfrg_found">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">56dp</item>
+        <item name="android:background">@color/white</item>
+        <!--<item name="android:gravity">center_vertical</item>-->
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="myfrg_found_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">12dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+
+    <style name="myfrg_found_image">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_width">40dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+    </style>
+
+    <style name="myfrg_found_image_arrow">
+        <item name="android:layout_marginRight">12dp</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:background">@mipmap/ic_right_arrow</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+
+    <style name="transcutestyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@android:color/transparent</item><!--边框-->
+        <item name="android:windowIsFloating">true</item><!--是否浮现在activity之上-->
+        <item name="android:windowIsTranslucent">true</item><!--半透明-->
+        <item name="android:windowNoTitle">true</item><!--无标题-->
+        <item name="android:windowBackground">@android:color/transparent</item><!--背景透明-->
+        <item name="android:backgroundDimAmount">0.7</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+
+    <style name="j_timepopwindow_anim_style">
+    </style>
+
+
+</resources>

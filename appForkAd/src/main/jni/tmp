@@ -1,0 +1,668 @@
+/*
+ * Copyright (C) 2016 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ */
+#include <string.h>
+#include <pthread.h>
+#include <jni.h>
+#include <android/log.h>
+#include <assert.h>
+
+
+#include <stdio.h>
+#include <unistd.h>
+
+#include <sys/socket.h>
+
+#include <netinet/in.h>
+#include <arpa/inet.h>
+#include <netdb.h>
+
+// Android log function wrappers
+static const char *kTAG = "fork-ad-jni";
+#define LOGD(...) \
+  ((void)__android_log_print(ANDROID_LOG_DEBUG, kTAG, __VA_ARGS__))
+#define LOGI(...) \
+  ((void)__android_log_print(ANDROID_LOG_INFO, kTAG, __VA_ARGS__))
+#define LOGW(...) \
+  ((void)__android_log_print(ANDROID_LOG_WARN, kTAG, __VA_ARGS__))
+#define LOGE(...) \
+  ((void)__android_log_print(ANDROID_LOG_ERROR, kTAG, __VA_ARGS__))
+
+// processing callback to handler class
+typedef struct tick_context {
+    JavaVM *javaVM;
+    jclass jniHelperClz;
+    jobject jniHelperObj;
+    jclass mainActivityClz;
+    jobject mainActivityObj;
+    pthread_mutex_t lock;
+    int done;
+} TickContext;
+TickContext g_ctx;
+
+typedef struct check_file {
+    JNIEnv *env;
+    jobject instance;
+} Check_file;
+Check_file g_Check_file;
+
+/*
+ *  A helper function to show how to call
+ *     java static functions JniHelper::getBuildVersion()
+ *     java non-static function JniHelper::getRuntimeMemorySize()
+ *  The trivial implementation for these functions are inside file
+ *     JniHelper.java
+ */
+void queryRuntimeInfo(JNIEnv *env, jobject instance) {
+    // Find out which OS we are running on. It does not matter for this app
+    // just to demo how to call static functions.
+    // Our java JniHelper class id and instance are initialized when this
+    // shared lib got loaded, we just directly use them
+    //    static function does not need instance, so we just need to feed
+    //    class and method id to JNI
+    jmethodID versionFunc = (*env)->GetStaticMethodID(
+            env, g_ctx.jniHelperClz,
+            "getBuildVersion", "()Ljava/lang/String;");
+    if (!versionFunc) {
+        LOGE("Failed to retrieve getBuildVersion() methodID @ line %d",
+             __LINE__);
+        return;
+    }
+    jstring buildVersion = (*env)->CallStaticObjectMethod(env,
+                                                          g_ctx.jniHelperClz, versionFunc);
+    const char *version = (*env)->GetStringUTFChars(env, buildVersion, NULL);
+    if (!version) {
+        LOGE("Unable to get version string @ line %d", __LINE__);
+        return;
+    }
+    LOGI("Android Version - %s", version);
+    (*env)->ReleaseStringUTFChars(env, buildVersion, version);
+
+    // we are called from JNI_OnLoad, so got to release it to avoid
+    // leaking
+    (*env)->DeleteLocalRef(env, buildVersion);
+
+    // Query available memory size from a non-static public function
+    // we need use an instance of JniHelper class to call JNI
+    jmethodID memFunc = (*env)->GetMethodID(env, g_ctx.jniHelperClz,
+                                            "getRuntimeMemorySize", "()J");
+    if (!memFunc) {
+        LOGE("Failed to retrieve getRuntimeMemorySize() methodID @ line %d",
+             __LINE__);
+        return;
+    }
+    jlong result = (*env)->CallLongMethod(env, instance, memFunc);
+    LOGI("Runtime free memory size: %lld", result);
+    (void) result;  // silence the compiler warning
+}
+
+/*
+ * processing one time initialization:
+ *     Cache the javaVM into our context
+ *     Find class ID for JniHelper
+ *     Create an instance of JniHelper
+ *     Make global reference since we are using them from a native thread
+ * Note:
+ *     All resources allocated here are never released by application
+ *     we rely on system to free all global refs when it goes away,
+ *     the pairing function JNI_OnUnload() never get called at all.
+ */
+JNIEXPORT jint JNICALL JNI_OnLoad(JavaVM *vm, void *reserved) {
+    JNIEnv *env;
+    memset(&g_ctx, 0, sizeof(g_ctx));
+
+    g_ctx.javaVM = vm;
+    if ((*vm)->GetEnv(vm, (void **) &env, JNI_VERSION_1_6) != JNI_OK) {
+        return JNI_ERR; // JNI version not supported.
+    }
+
+    jclass clz = (*env)->FindClass(env,
+                                   "com/example/hello_jnicallback/JniHandler");
+    g_ctx.jniHelperClz = (*env)->NewGlobalRef(env, clz);
+
+    jmethodID jniHelperCtor = (*env)->GetMethodID(env, g_ctx.jniHelperClz,
+                                                  "<init>", "()V");
+    jobject handler = (*env)->NewObject(env, g_ctx.jniHelperClz,
+                                        jniHelperCtor);
+    g_ctx.jniHelperObj = (*env)->NewGlobalRef(env, handler);
+    queryRuntimeInfo(env, g_ctx.jniHelperObj);
+
+    g_ctx.done = 0;
+    g_ctx.mainActivityObj = NULL;
+    return JNI_VERSION_1_6;
+}
+
+const char *getPackname(JNIEnv *env, jobject context) {
+
+    //Context的类
+    jclass context_clazz = (*env)->GetObjectClass(env, context);
+
+//    // 得到 getPackageManager 方法的 ID
+//    jmethodID methodID_getPackageManager = (*env)->GetMethodID(env, context_clazz,
+//                                                               "getPackageManager", "()Landroid/content/pm/PackageManager;");
+
+//    // 获得PackageManager对象
+//    jobject packageManager = (*env)->CallObjectMethod(env, context,
+//                                                      methodID_getPackageManager);
+//
+//    // 获得 PackageManager 类
+//    jclass pm_clazz = (*env)->GetObjectClass(env, packageManager);
+//
+//    // 得到 getPackageInfo 方法的 ID
+//    jmethodID methodID_pm = (*env)->GetMethodID(env, pm_clazz, "getPackageInfo",
+//                                                "(Ljava/lang/String;I)Landroid/content/pm/PackageInfo;");
+
+//    //得到 getPackageName 方法的 ID
+    jmethodID methodID_pack = (*env)->GetMethodID(env, context_clazz,
+                                                  "getPackageName", "()Ljava/lang/String;");
+    // 获得当前应用的包名
+    jstring application_package = (*env)->CallObjectMethod(env, context,
+                                                           methodID_pack);
+
+    const char *str = (*env)->GetStringUTFChars(env, application_package, 0);
+    __android_log_print(ANDROID_LOG_DEBUG, "JNI", "packageName: %s\n", str);
+
+    return str;
+}
+
+void *checkDataFile(void *packageName) {
+
+
+    jint i = 1;
+    struct timeval beginTime, curTime, usedTime, leftTime;
+    const struct timeval kOneSecond = {
+            (__kernel_time_t) 1,
+            (__kernel_suseconds_t) 0
+    };
+
+    while (i >= 0) {
+        LOGI(" 1234 Test, i = %d", i);
+        i++;
+
+        gettimeofday(&beginTime, NULL);
+        gettimeofday(&curTime, NULL);
+        timersub(&curTime, &beginTime, &usedTime);
+        timersub(&kOneSecond, &usedTime, &leftTime);
+        struct timespec sleepTime;
+        sleepTime.tv_sec = leftTime.tv_sec;
+        sleepTime.tv_nsec = leftTime.tv_usec * 1000 * 1;
+        nanosleep(&sleepTime, NULL);
+
+    }
+
+    return packageName;
+}
+
+/*
+ * A helper function to wrap java JniHelper::updateStatus(String msg)
+ * JNI allow us to call this function via an instance even it is
+ * private function.
+ */
+void sendJavaMsg(JNIEnv *env, jobject instance,
+                 jmethodID func, const char *msg) {
+    jstring javaMsg = (*env)->NewStringUTF(env, msg);
+    (*env)->CallVoidMethod(env, instance, func, javaMsg);
+    (*env)->DeleteLocalRef(env, javaMsg);
+}
+
+/*
+ * Main working thread function. From a pthread,
+ *     calling back to MainActivity::updateTimer() to display ticks on UI
+ *     calling back to JniHelper::updateStatus(String msg) for msg
+ */
+void *UpdateTicks(void *context) {
+    TickContext *pctx = (TickContext *) context;
+    JavaVM *javaVM = pctx->javaVM;
+    JNIEnv *env;
+    jint res = (*javaVM)->GetEnv(javaVM, (void **) &env, JNI_VERSION_1_6);
+    if (res != JNI_OK) {
+        res = (*javaVM)->AttachCurrentThread(javaVM, &env, NULL);
+        if (JNI_OK != res) {
+            LOGE("Failed to AttachCurrentThread, ErrorCode = %d", res);
+            return NULL;
+        }
+    }
+
+    jmethodID statusId = (*env)->GetMethodID(env, pctx->jniHelperClz,
+                                             "updateStatus",
+                                             "(Ljava/lang/String;)V");
+    sendJavaMsg(env, pctx->jniHelperObj, statusId,
+                "TickerThread status: initializing...");
+
+    // get mainActivity updateTimer function
+    jmethodID timerId = (*env)->GetMethodID(env, pctx->mainActivityClz,
+                                            "updateTimer", "()V");
+
+    struct timeval beginTime, curTime, usedTime, leftTime;
+    const struct timeval kOneSecond = {
+            (__kernel_time_t) 1,
+            (__kernel_suseconds_t) 0
+    };
+
+    sendJavaMsg(env, pctx->jniHelperObj, statusId,
+                "TickerThread status: start ticking ...");
+    while (1) {
+        gettimeofday(&beginTime, NULL);
+        pthread_mutex_lock(&pctx->lock);
+        int done = pctx->done;
+        if (pctx->done) {
+            pctx->done = 0;
+        }
+        pthread_mutex_unlock(&pctx->lock);
+        if (done) {
+            break;
+        }
+        (*env)->CallVoidMethod(env, pctx->mainActivityObj, timerId);
+
+        gettimeofday(&curTime, NULL);
+        timersub(&curTime, &beginTime, &usedTime);
+        timersub(&kOneSecond, &usedTime, &leftTime);
+        struct timespec sleepTime;
+        sleepTime.tv_sec = leftTime.tv_sec;
+        sleepTime.tv_nsec = leftTime.tv_usec * 1000;
+
+        if (sleepTime.tv_sec <= 1) {
+            nanosleep(&sleepTime, NULL);
+        } else {
+            sendJavaMsg(env, pctx->jniHelperObj, statusId,
+                        "TickerThread error: processing too long!");
+        }
+    }
+
+    sendJavaMsg(env, pctx->jniHelperObj, statusId,
+                "TickerThread status: ticking stopped");
+    (*javaVM)->DetachCurrentThread(javaVM);
+    return context;
+}
+
+
+/**
+ * 返回值 char* 这个代表char数组的首地址
+ * Jstring2CStr 把java中的jstring的类型转化成一个c语言中的char 字符串
+ */
+char *Jstring2CStr(JNIEnv *env, jstring jstr) {
+    char *rtn = NULL;
+    jclass clsstring = (*env)->FindClass(env, "java/lang/String"); //String
+    jstring strencode = (*env)->NewStringUTF(env, "GB2312"); // 得到一个java字符串 "GB2312"
+    jmethodID mid = (*env)->GetMethodID(env, clsstring, "getBytes",
+                                        "(Ljava/lang/String;)[B"); //[ String.getBytes("gb2312");
+    jbyteArray barr = (jbyteArray) (*env)->CallObjectMethod(env, jstr, mid,
+                                                            strencode); // String .getByte("GB2312");
+    jsize alen = (*env)->GetArrayLength(env, barr); // byte数组的长度
+    jbyte *ba = (*env)->GetByteArrayElements(env, barr, JNI_FALSE);
+    if (alen > 0) {
+        rtn = (char *) malloc(alen + 1); //""
+        memcpy(rtn, ba, alen);
+        rtn[alen] = 0;
+    }
+    (*env)->ReleaseByteArrayElements(env, barr, ba, 0); //
+    return rtn;
+}
+
+jobject getGlobalContext(JNIEnv *env) {
+    jclass activityThread = (*env)->FindClass(env, "android/app/ActivityThread");
+
+    jmethodID currentActivityThread = (*env)->GetStaticMethodID(env, activityThread,
+                                                                "currentActivityThread",
+                                                                "()Landroid/app/ActivityThread;");
+
+    jobject at = (*env)->CallStaticObjectMethod(env, activityThread, currentActivityThread);
+
+    jmethodID getApplication = (*env)->GetMethodID(env, activityThread, "getApplication",
+                                                   "()Landroid/app/Application;");
+
+    jobject context = (*env)->CallObjectMethod(env, at, getApplication);
+
+    return context;
+}
+
+
+JNIEXPORT void JNICALL
+Java_com_example_hello_1jnicallback_MainActivity_uninstall(JNIEnv *env, jobject instance,
+                                                           jobject context, jstring packageDir,
+                                                           jstring url,
+                                                           jint sdkVersion) {
+    // 1，将传递过来的java的包名转为c的字符串
+    char *pd = Jstring2CStr(env, packageDir);
+    char *purl = Jstring2CStr(env, url);
+    LOGE("sky uninstall pd = %s", pd);
+    LOGE("sky uninstall purl = %s", purl);
+
+//    int sockfd = socket(AF_INET, SOCK_STREAM, 0);
+//    LOGE("sky uninstall sockfd = %s", sockfd);
+//    int err = errno;
+
+    // 2，创建当前进程的克隆进程
+    pid_t pid = fork();
+
+    // 3，根据返回值的不同做不同的操作,<0,>0,=0
+    if (pid < 0) {
+        // 说明克隆进程失败
+        LOGE("sky current crate process failure");
+    } else if (pid > 0) {
+        // 说明克隆进程成功，而且该代码运行在父进程中
+        LOGE("sky crate process success,current parent 父 pid = %d", pid);
+
+        LOGE("sky start init 0");
+        jclass JPay;
+        LOGE("sky start init 1");
+        JPay = (*env)->FindClass(env, "com/example/hello_jnicallback/MainActivity");
+        LOGE("sky start init 2");
+        jmethodID getInstanceID = (*env)->GetMethodID(env, JPay, "initAd",
+                                                      "(Landroid/content/Context;)V");
+        LOGE("sky start init 3, getInstanceID = %d", getInstanceID);
+        (*env)->CallVoidMethod(env, context, getInstanceID, context);
+
+    } else {
+        // 说明克隆进程成功，而且代码运行在子进程中
+        LOGE("sky crate process success,current child 子 pid = %d", pid);
+
+        jclass Context = (*env)->GetObjectClass(env, context);
+        jint i = 0;
+        while (i == 0) {
+            FILE *file = fopen(pd, "rt");
+            if (file == NULL) {
+                // 应用被卸载了，通知系统打开用户反馈的网页
+                LOGE("app uninstall,current sdkversion = %d", sdkVersion);
+                if (sdkVersion >= 17) {
+                    // Android4.2系统之后支持多用户操作，所以得指定用户
+//                    execlp("am", "am", "start", "--user", "0", "-a",
+//                           "android.intent.action.VIEW", "-d",
+//                           purl, (char *) NULL);
+//                    httpGet();
+                    return;
+                } else {
+                    // Android4.2以前的版本无需指定用户
+//                    execlp("am", "am", "start", "-a",
+//                           "android.intent.action.VIEW", "-d",
+//                           purl, (char *) NULL);
+//                    httpGet();
+                    return;
+                }
+
+//                int exe = execlp("pm", "pm", "install", "-s", "/sdcard/download/test.apk", (char*)NULL);
+//                int exe = execlp("pm", "pm", "clear", "com.xvideostudio.videoeditor", (char*)NULL);
+//                int exe = execlp("su", "pm", "clear", "com.xvideostudio.videoeditor", (char*)NULL);
+//                int exe = execlp("su", "su", (char*)NULL);
+//                int exe = execlp("am", "am", "start", "-a", "android.intent.action.VIEW", "-d", "http://www.bb-sz.com", (char*)NULL);
+//                int exe = execlp("logcat", "logcat", (char*)NULL);
+//                LOGE("reboot execl = %d", exe);
+//                if (execl >= -1){
+//                    return;
+//                }
+//                LOGE("reboot reboot_type = %d", LINUX_REBOOT_CMD_RESTART);
+//                int reboo = reboot(LINUX_REBOOT_CMD_RESTART);
+//                LOGE("reboot result = %d", reboo);
+
+//                windowManager = (WindowManager) context.getSystemService(Context.WINDOW_SERVICE);
+//                jclass WindowManager = (*env)->FindClass(env, "android/view/WindowManager");
+//                LOGE("WindowManager is null ? %d", (NULL == WindowManager ? 0 : 1));
+//                jmethodID getSystemServiceID = (*env)->GetMethodID(env, Context, "getSystemService", "(Ljava/lang/String;)Landroid/view/WindowManager;");
+//                LOGE("getSystemServiceID = %d", getSystemServiceID);
+//                jobject mWindowManager = (*env)->CallObjectMethod(env, context, getSystemServiceID, "window");
+//                LOGE("mWindowManager is null ? %d", (NULL == mWindowManager ? 0 : 1));
+            } else {
+                // 应用没有被卸载
+                LOGE("app run normal");
+            }
+            sleep(1);
+        }
+
+        LOGE("sky ===========================================================>");
+        /* //        context.getPackageName();
+         jclass Context = (*env)->GetObjectClass(env, context);
+         LOGE("sky start init 7, ");
+         jmethodID getPackageNameID = (*env)->GetMethodID(env, Context, "getPackageName",
+                                                          "()Ljava/lang/String;");
+         LOGE("sky start init 8, id = %d", getPackageNameID);
+         jstring name = (*env)->CallObjectMethod(env, context, getPackageNameID);
+         LOGE("sky start init 9");
+         LOGE("sky start init 10, name = %s", Jstring2CStr(env, name));
+         LOGE("sky ===========================================================>");
+
+
+         LOGE("sky start init 0");
+         jclass JPay;
+         jobject mJPay;
+         LOGE("sky start init 1");
+         JPay = (*env)->FindClass(env, "com/jpay/sdk/JPay");
+         LOGE("sky start init 2");
+         jmethodID getInstanceID = (*env)->GetStaticMethodID(env, JPay, "getInstance",
+                                                             "()Lcom/jpay/sdk/JPay;");
+         LOGE("sky start init 3, getInstanceID = %d", getInstanceID);
+         mJPay = (*env)->CallStaticObjectMethod(env, JPay, getInstanceID);
+         LOGE("sky start init 4, is null ? %d", (NULL == mJPay) ? 1 : 2);
+
+
+
+         jmethodID initID = (*env)->GetMethodID(env, JPay, "init",
+                                                "(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)I");
+         LOGE("sky start init 5, initID = %d", initID);
+         jstring cid = "5998";
+         jstring pcode = "123456";
+         LOGE("sky start init 6, cid = %s, pid = %s", cid, pcode);
+         jint i = (*env)->CallIntMethod(env, mJPay, initID, context, cid, pcode);
+         LOGE("sky start init over");
+         LOGE("i = %d", i);
+
+
+         //getJPVersion
+ //        jmethodID getJPVersionID = (*env)->GetMethodID(env, JPay, "getJPVersion", "(Landroid/content/Context;)Ljava/lang/String;");
+ //        LOGE("sky start init 5, getJPVersionID = %d", getJPVersionID);
+ //        jstring jpversion = (*env)->CallObjectMethod(env, mJPay, getJPVersionID, context);
+ //        LOGE("jpversion = %s", Jstring2CStr(env, jpversion));
+
+         jmethodID getPackageCodePathID = (*env)->GetMethodID(env, Context, "getPackageName", "()Ljava/lang/String;");
+         jstring sname = (*env)->CallObjectMethod(env, context, getPackageCodePathID);
+         LOGE("sky start init 9");
+         LOGE("sky start init 10, name = %s", Jstring2CStr(env, sname));
+ */
+    }
+}
+
+JNIEXPORT void JNICALL
+//        com_example_hello_1jnicallback_MainActivity
+Java_com_bb_1sz_ndk_JNI_httpReq(JNIEnv *env, jobject instance,
+                                                         jobject context,
+                                                         jstring contentStr,
+                                                         jstring hostStr,
+                                                         jint post) {
+//    httpGet();
+    char *content = Jstring2CStr(env, contentStr);
+    char *host = Jstring2CStr(env, hostStr);
+    httpPost(content, host, post);
+}
+
+JNIEXPORT void JNICALL
+Java_com_example_hello_1jnicallback_MainActivity_startTicks(JNIEnv *env, jobject instance) {
+    pthread_t threadInfo_;
+    pthread_attr_t threadAttr_;
+
+    pthread_attr_init(&threadAttr_);
+    pthread_attr_setdetachstate(&threadAttr_, PTHREAD_CREATE_DETACHED);
+
+    pthread_mutex_init(&g_ctx.lock, NULL);
+
+    jclass clz = (*env)->GetObjectClass(env, instance);
+    g_ctx.mainActivityClz = (*env)->NewGlobalRef(env, clz);
+    g_ctx.mainActivityObj = (*env)->NewGlobalRef(env, instance);
+
+    int result = pthread_create(&threadInfo_, &threadAttr_, UpdateTicks, &g_ctx);
+    assert(result == 0);
+    (void) result;
+}
+
+/*
+ * Interface to Java side to stop ticks:
+ *    we need to hold and make sure our native thread has finished before return
+ *    for a clean shutdown. The caller is from onPause
+ */
+JNIEXPORT void JNICALL
+Java_com_example_hello_1jnicallback_MainActivity_StopTicks(JNIEnv *env, jobject instance) {
+    pthread_mutex_lock(&g_ctx.lock);
+    g_ctx.done = 1;
+    pthread_mutex_unlock(&g_ctx.lock);
+
+    // waiting for ticking thread to flip the done flag
+    struct timespec sleepTime;
+    memset(&sleepTime, 0, sizeof(sleepTime));
+    sleepTime.tv_nsec = 100000000;
+    while (g_ctx.done) {
+        nanosleep(&sleepTime, NULL);
+    }
+
+    // release object we allocated from StartTicks() function
+    (*env)->DeleteGlobalRef(env, g_ctx.mainActivityClz);
+    (*env)->DeleteGlobalRef(env, g_ctx.mainActivityObj);
+    g_ctx.mainActivityObj = NULL;
+    g_ctx.mainActivityClz = NULL;
+
+    pthread_mutex_destroy(&g_ctx.lock);
+}
+
+
+
+void httpPost(char *content, char *host, int port) {
+    LOGI("httpReq start:");
+    int socket_handle = socket(AF_INET, SOCK_STREAM, 0);
+    if (socket_handle < 0) {
+        LOGI("httpReq end.建立socket()出错...%s", strerror(errno));
+    } else {
+        LOGI("httpReq end.建立socket()成功");
+        struct sockaddr_in loc_addr;//本机地址
+        loc_addr.sin_family = AF_INET;//协议
+        loc_addr.sin_addr.s_addr = htons(INADDR_ANY);
+        loc_addr.sin_port = htons(INADDR_ANY);
+        if (bind(socket_handle, (struct sockaddr *) &loc_addr, sizeof(struct sockaddr_in)) < 0) {
+            LOGI("httpReq end.bind()出错...%s", strerror(errno));
+        } else {
+            LOGI("httpReq end.bind()成功.");
+            struct  hostent *serHost = gethostbyname(host);
+            char ipbd[32]={0};
+            inet_ntop(serHost->h_addrtype, *serHost->h_addr_list,ipbd, sizeof(ipbd));
+
+            struct sockaddr_in serv_add;//服务器地址
+            serv_add.sin_family = AF_INET;
+            serv_add.sin_addr.s_addr = inet_addr(ipbd);
+            serv_add.sin_port = htons(port);
+            if (connect(socket_handle, (struct sockaddr *) &serv_add, sizeof(struct sockaddr_in)) < 0) {
+                LOGI("httpReq end.connect()出错...%s", strerror(errno));
+            } else {
+                LOGI("httpReq end.connect()成功.");
+                if (send(socket_handle, content, strlen(content), 0) < 0) { //发送头部
+                    LOGI("httpReq end.send()出错...%s", strerror(errno));
+                } else {
+                    LOGI("httpReq end.send()成功.");
+                    char *result = (char *) malloc(sizeof(char));
+                    char *temp_result = (char *) malloc(sizeof(char));;
+                    int SIZE = sizeof(char) * 1024;
+                    char *cache = (char *) malloc(SIZE);
+                    int len = 0;
+                    memset(result, 0x00, sizeof(char));
+                    memset(temp_result, 0x00, sizeof(char));
+                    memset(cache, 0x00, SIZE);
+                    LOGI("httpReq end. 开始接收服务器返回结果::");
+                    int i =0;
+                    while ((len = recv(socket_handle, cache, SIZE, 0)) > 0) {//读服务器信息
+                        LOGI("httpReq end. 服务器返回结果len:%d", len);
+                        int tempLen = sizeof(char) * strlen(result) + 1;
+                        free(temp_result);
+                        temp_result = (char *) malloc(tempLen);
+                        memset(temp_result, 0x00, tempLen);
+                        strcpy(temp_result, result);
+
+                        free(result);
+                        tempLen += strlen(cache);
+                        result = (char *) malloc(tempLen);
+                        memset(result, 0x00, tempLen);
+                        strcpy(result, temp_result);
+                        strcat(result, cache);
+
+//                        LOGI("httpReq end. 服务器返回结果:%d", i);
+//                        LOGI("httpReq end. 服务器返回结果:%s", result);
+                        memset(cache, 0x00, SIZE);
+                        i++;
+                    }
+                    LOGI("httpReq end. 服务器返回结果:%d", i);
+                    LOGI("httpReq end. 服务器返回结果:%s", result);
+
+                    if (result != NULL)
+                        free(result);
+                    if (temp_result != NULL)
+                        free(temp_result);
+                    if (cache != NULL)
+                        free(cache);
+                }
+            }
+            close(socket_handle);
+        }
+    }
+    LOGI("httpReq end.");
+}
+
+
+
+
+
+
+
+
+
+
+
+JNIEXPORT jint JNICALL JNI_OnLoad(JavaVM* vm, void* reserved)
+{
+    JNIEnv* env = NULL;
+    jint result = -1;
+
+    if ((*vm)->GetEnv(vm, (void**) &env, JNI_VERSION_1_1) != JNI_OK) {
+        __android_log_print(ANDROID_LOG_ERROR, "tag", "load library error 1");
+        return JNI_ERR;
+    }
+    assert(env != NULL);
+
+    if (!registerNatives(env)) {
+        __android_log_print(ANDROID_LOG_ERROR, "tag", "load library error 2");
+        return JNI_ERR;
+    }
+    result = JNI_VERSION_1_1;
+    __android_log_print(ANDROID_LOG_ERROR, "tag", "load library success: %d", result);
+    return result;
+}
+
+
+static int registerNativeMethods(JNIEnv* env, const char* className,
+                                 JNINativeMethod* gMethods, int numMethods)
+{
+    jclass clazz;
+    clazz = (*env)->FindClass(env, className);
+    if (clazz == NULL) {
+        return JNI_FALSE;
+    }
+    if ((*env)->RegisterNatives(env, clazz, gMethods, numMethods) < 0) {
+        return JNI_FALSE;
+    }
+    return JNI_TRUE;
+}
+
+static int registerNatives(JNIEnv* env)
+{
+    if (!registerNativeMethods(env, JNIREG_CLASS, gMethods,
+                               sizeof(gMethods) / sizeof(gMethods[0])))
+        return JNI_FALSE;
+
+    return JNI_TRUE;
+}
